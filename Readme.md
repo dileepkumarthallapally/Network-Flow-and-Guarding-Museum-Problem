@@ -1,9 +1,4 @@
-This file gives details on how to execute the program for breadth first search
-
-The project is developed using Java and uses Eclipse to run.
-
-
-This file gives details on how to execute the program for Ford Fulkerson Program
+This file gives details on how to execute the program for breadth first search, Ford Fulkerson Program and Museum problem solution
 
 The project is developed using Java 7
 
